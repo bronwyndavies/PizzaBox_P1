@@ -1,0 +1,12 @@
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\bin\Debug\net5.0\PizzaBox.Storing.deps.json
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\bin\Debug\net5.0\PizzaBox.Storing.dll
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\bin\Debug\net5.0\ref\PizzaBox.Storing.dll
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\bin\Debug\net5.0\PizzaBox.Storing.pdb
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.csprojAssemblyReference.cache
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.AssemblyInfoInputs.cache
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.AssemblyInfo.cs
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.csproj.CoreCompileInputs.cache
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.dll
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\ref\PizzaBox.Storing.dll
+C:\Users\bldav\revature\P1-PizzaBox\PizzaBox\PizzaBox.Storing\obj\Debug\net5.0\PizzaBox.Storing.pdb

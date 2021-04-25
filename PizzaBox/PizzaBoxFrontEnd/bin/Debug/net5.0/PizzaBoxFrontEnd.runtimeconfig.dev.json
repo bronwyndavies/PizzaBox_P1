@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bldav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bldav\\.nuget\\packages"
+    ]
+  }
+}
